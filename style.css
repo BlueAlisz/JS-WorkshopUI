@@ -1,9 +1,26 @@
 body {
-  font-family: Barlow;
+  background-color: #F2F2F2;
+  font-family: monospace;
 }
-body .products {
+body .one {
   font-size: 30px;
-  font-family: Barlow;
   font-style: normal;
   font-weight: 500;
+}
+body .one P {
+  font-size: 20px;
+}
+body .price {
+  color: #B02B2B;
+}
+body .priceOriginal {
+  color: #868686;
+  text-decoration: line-through;
+  font-size: 14px;
+}
+body .col-2 {
+  cursor: pointer;
+}
+body .col-2 label {
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
