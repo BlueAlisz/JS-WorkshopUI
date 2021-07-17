@@ -24,3 +24,9 @@ body .col-2 {
 body .col-2 label {
   cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
+@media (max-width: 700px)
+{
+  #navtop{
+    display: none;
+  }
+}
